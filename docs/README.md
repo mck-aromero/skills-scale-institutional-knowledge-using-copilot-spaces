@@ -36,7 +36,11 @@ Our project lifecycle consists of five key phases:
 
 ### Supporting Processes
 - **[Risk Management & Communication](octoacme-risks-and-communication.md)**: Identify, manage, and communicate risks and dependencies effectively
-- **[Roles & Personas](octoacme-roles-and-personas.md)**: Understand the responsibilities of Developers, Product Managers, and Project Managers
+- **[Roles & Personas](octoacme-roles-and-personas.md)**: Understand the responsibilities of all project team members including Developers, Product Managers, Project Managers, Scrum Masters, UX Designers, Technical Leads, and QA Leads
+
+### Templates & Tools
+- **[Role Onboarding Checklist](octoacme-role-onboarding-checklist.md)**: Structured onboarding guide for new team members by role
+- **[RACI Matrix](octoacme-raci-matrix.md)**: Responsibility assignment matrix for project activities across all roles
 
 ## Getting Started
 
@@ -44,7 +48,9 @@ New to OctoAcme project management? We recommend:
 
 1. Start with the **[Project Management Overview](octoacme-project-management-overview.md)** to understand our core principles and lifecycle
 2. Review **[Roles & Personas](octoacme-roles-and-personas.md)** to understand team responsibilities
-3. Follow the phase-specific guides in order as you progress through your project
+3. Use the **[Role Onboarding Checklist](octoacme-role-onboarding-checklist.md)** for role-specific onboarding guidance
+4. Follow the phase-specific guides in order as you progress through your project
+5. Reference the **[RACI Matrix](octoacme-raci-matrix.md)** to understand accountability for different activities
 
 For specific needs, jump directly to the relevant guide from the index above.
 
